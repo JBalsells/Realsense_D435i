@@ -1,3 +1,7 @@
-numpy
-pyrealsense
-matplotlib
+numpy==1.21.5
+pyrealsense2==2.55.1.6486
+matplotlib==3.5.1
+opencv-python==4.11.0.86
+
+#librealsense2-dev
+#librealsense2-utils
